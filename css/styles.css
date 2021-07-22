@@ -49,24 +49,22 @@ p {
 }
 
 .cloud {
-    width: 220px;
-    height: 100px;
+    width: 14%;
 }
 .mountain {
-    width: 800px;
-    height: 500px;
-    /* padding: 50px 0 0; */
+    width: 70%;
+    padding: 100px 0 0;
 }
 .top-cloud {
     position: absolute;
     top: 30px;
-    right: 340px;
+    right: 17.5%;
     opacity: 70%;
 }
 .bottom-cloud {
     position: absolute;
-    bottom: 400px;
-    left: 250px;
+    top: 400px;
+    left: 15%;
     opacity: 70%;
     padding-top: 20px;
 }
